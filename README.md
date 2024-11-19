@@ -1,1 +1,1 @@
-# fullstackopen_part8
+Solutions to the exercises from Part 8 of the Full Stack Open course (fullstackopen.com).
